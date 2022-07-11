@@ -1,4 +1,5 @@
 public class Test {
+    //изменение
 public static void main (String args[]){
     double days = 234.8;
     Integer weeks = 234/7;
